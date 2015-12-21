@@ -1,0 +1,14 @@
+layout_spectrum: 0.2132616
+typography_spectrum: 0.9014337
+color:
+  saturation: 0.4631072
+  lightness: 0.04497151
+  brandStrength: 0.6845878
+  brandColors:
+    - '#393731'
+    - '#E9E9EA'
+    - '#766F65'
+    - '#9BB3DF'
+    - '#BD6E16'
+  rhythmicContrast: 0.4995751
+name: CohandCo
